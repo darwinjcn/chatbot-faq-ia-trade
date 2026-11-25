@@ -6,6 +6,8 @@
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
 ![Licencia MIT](https://img.shields.io/badge/Licencia-MIT-green.svg)
 
+🚀 **[¡Prueba la aplicación en vivo aquí!](https://bodegon-el-buen-sabor-darwin.netlify.app/ "Ver demo desplegada en Netlify")**
+
 Aplicación web que integra Inteligencia Artificial (NLP) para automatizar la atención al cliente de un comercio local. Desarrollada como parte de la **Evaluación 1** de la unidad curricular de Inteligencia Artificial (UNA).
 
 ## 📸 Capturas de pantalla
